@@ -1,0 +1,2 @@
+# storecode
+Replicating storecode website.
